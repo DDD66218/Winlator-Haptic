@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
+	<img src="logo_coming.png" width="376" height="128" alt="Winlator-haptic Logo" />  
 </p>
 
 # Information
